@@ -1,2 +1,3 @@
-# support
-Report a issues or ask a question for Kirby Next's products.
+# Get Support
+
+Report a issues or ask a question for oweb studio's products.
